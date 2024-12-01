@@ -16,7 +16,7 @@
 ---
 ## 서비스 아키텍처
 
-![서비스 아키텍처](./img/System_Architecture.png)
+![서비스 아키텍처](./img/image.png)
 
 ---
 ## 사용 기술
